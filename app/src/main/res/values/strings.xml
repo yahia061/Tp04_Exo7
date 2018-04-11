@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tp4_Exo7</string>
+    <string-array name="Couleur">
+        <item>Blue</item>
+        <item>Juane</item>
+        <item>Vert</item>
+    </string-array>
+</resources>
